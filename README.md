@@ -1,0 +1,1 @@
+- The client sends a request. The server sends back the current date and time and market score (random) of any 3 countries. Displayed via GUI !
